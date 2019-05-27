@@ -13,7 +13,8 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://lt66.vip/ltapp/ltapp.plist</string>          <!-- ipa的http地址 -->
+                    <string>https://github.com/ltuser4600/ltim/raw/master/%E9%BE%99%E8%85%BE-IMx129892-ios-YueYu-v110_enterprise_resigned_resigned_resigned.ipa</string>          <!-- ipa的http地址 -->
+                    
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -29,7 +30,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>https://lt66.vip/ltapp/logo.png</string>      		<!-- 显示的图标.png的http地址 -->
+                    <string>https://gitee.com/ltleader/ltapp/raw/master/logo.jpg</string>      		<!-- 显示的图标.png的http地址 -->
                 </dict>
             </array>
             <key>metadata</key>
@@ -41,7 +42,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>龙腾聊天室</string>   							 <!-- 游戏名字 -->
+                <string>龙腾通讯</string>   							 <!-- 游戏名字 -->
             </dict>
         </dict>
     </array>
